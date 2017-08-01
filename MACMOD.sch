@@ -950,7 +950,7 @@ Standard 4-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <sheet>
 <plain>
 <text x="144.78" y="12.7" size="3.048" layer="94">Freetronics MAC Address Module</text>
-<text x="215.9" y="6.858" size="1.778" layer="94">V1.0 (4-Jul-2013)</text>
+<text x="215.9" y="6.858" size="1.778" layer="94">V1.0 (1-Aug-2017)</text>
 <text x="144.526" y="6.858" size="1.778" layer="94">www.freetronics.com.au/macmod</text>
 <text x="193.04" y="6.858" size="1.778" layer="94">SKU: MACMOD</text>
 <text x="12.7" y="164.338" size="1.9304" layer="94" ratio="12">Microchip 24AA025E48
@@ -963,7 +963,7 @@ I2C Address: 0x50</text>
 <text x="12.7" y="12.7" size="1.778" layer="94">Released under the TAPR</text>
 <text x="12.7" y="10.16" size="1.778" layer="94">Open Hardware License</text>
 <text x="12.7" y="7.62" size="1.778" layer="94">www.tapr.org/OHL</text>
-<text x="12.7" y="15.24" size="1.778" layer="94">(c) Copyright 2013 Freetronics Pty Ltd</text>
+<text x="12.7" y="15.24" size="1.778" layer="94">(c) Copyright 2017 Freetronics Pty Ltd</text>
 <text x="137.16" y="111.76" size="1.778" layer="94">VCC</text>
 <text x="137.16" y="109.22" size="1.778" layer="94">SCL</text>
 <text x="137.16" y="106.68" size="1.778" layer="94">SDA</text>
